@@ -8,7 +8,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("TSE Dashboard1"),
+        title: Text("TSE Dashboard12"),
       ),
       body: Column(
         children: [
