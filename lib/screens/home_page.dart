@@ -14,7 +14,7 @@ class HomePage extends StatelessWidget {
         children: [
           Container(
             padding: EdgeInsets.all(10),
-            child: Text("Apps", style: TextStyle(fontSize: 20)),
+            child: Text("Apps", style: TextStyle(fontSize: 30)),
           ),
           Row(
             children: [
